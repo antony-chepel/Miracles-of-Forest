@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_mother"
+    app:startDestination="@id/uhcixjjizhus">
+
+    <fragment
+        android:id="@+id/uhcixjjizhus"
+        android:name="com.generamobile.headsoccerlali.isijhuwdhu.Gtwiwioskxjicsa"
+        android:label="llxzocksijjuhf"
+        tools:layout="@layout/eorjkjiijdkov" >
+        <action
+            android:id="@+id/ncnncijxzuhsudw"
+            app:destination="@id/pxlclosjuhdhufe" />
+    </fragment>
+    <fragment
+        android:id="@+id/pxlclosjuhdhufe"
+        android:name="com.generamobile.headsoccerlali.vufrijokdf.Ozkzkoixichushucw"
+        android:label="forokekojicixhnvhd"
+        tools:layout="@layout/coockvijdvufd" >
+        <action
+            android:id="@+id/zoxoxiyfuhdf"
+            app:destination="@id/biivuhidfasd" />
+    </fragment>
+    <fragment
+        android:id="@+id/biivuhidfasd"
+        android:name="com.generamobile.headsoccerlali.vufrijokdf.Oisjshuxgycs"
+        android:label="hjfufudijdsfedsf"
+        tools:layout="@layout/psosolsdokxjicjiixz" >
+        <action
+            android:id="@+id/adpppdokcjivx"
+            app:destination="@id/mopcpcoxjidhf" />
+    </fragment>
+    <fragment
+        android:id="@+id/mopcpcoxjidhf"
+        android:name="com.generamobile.headsoccerlali.isijhuwdhu.Mkosoksijxuhcs"
+        android:label="vogkfdkijuhxcvd"
+        tools:layout="@layout/kkxcojsiajihuc" >
+        <action
+            android:id="@+id/clxlxlckdsijf"
+            app:destination="@id/jjudusiiokkoxc" />
+    </fragment>
+    <fragment
+        android:id="@+id/jjudusiiokkoxc"
+        android:name="com.generamobile.headsoccerlali.isijhuwdhu.Lopwowijsjhuxygcs"
+        android:label="bbgogookvkocjibf"
+        tools:layout="@layout/okwkokodjihunxc" />
+</navigation>

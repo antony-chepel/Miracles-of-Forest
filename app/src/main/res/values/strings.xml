@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miracles of Forest</string>
+    <string name="facebook_app_id">1508861356310097</string>
+    <string name="fb_login_protocol_scheme">fb1508861356310097</string>
+    <string name="facebook_client_token">d61c4ec830c529484aee269e7249593c</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
